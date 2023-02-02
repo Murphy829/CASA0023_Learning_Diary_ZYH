@@ -4,7 +4,7 @@ project:
 
 book:
   title: "CASA0023_Learning_Diary_ZYH"
-  author: "YINHAOZHAN"
+  author: "YINHAO ZHAN"
   date: "02/02/2023"
   chapters:
     - index.qmd
